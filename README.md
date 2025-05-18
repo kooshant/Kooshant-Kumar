@@ -4,8 +4,10 @@ I'm a passionate techie currently pursuing a B.Tech in Computer Science and Engi
 
 🔧 I have HANDS-ON EXPERIENCE in:
 
-C++
+C++ 
+
 Data Structures and Algorithms (DSA)
+
 Front-End Development (HTML, CSS, JavaScript)
 
 🌱 Currently learning: Full-stack development.
